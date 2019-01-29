@@ -26,7 +26,7 @@ pipeline {
                       sh 'mkdir -p /var/jenkins_home/download'
                       sh 'cp ./target/*.jar /var/jenkins_home/download' 
               	 }
-              	 }
+              	 
               }  
             
               }
