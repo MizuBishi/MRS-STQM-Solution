@@ -1,0 +1,15 @@
+# Gradle
+/build/
+/.gradle/
+
+# Maven
+/target/
+
+.idea/ 
+# Elcipse
+.project
+.classpath
+.checkstyle
+/.settings/
+/bin/
+/log/
